@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bostreact/static/css/main.ee2f6c1d.css",
+    "main.js": "/bostreact/static/js/main.e1a55f13.js",
+    "static/js/787.08f3454f.chunk.js": "/bostreact/static/js/787.08f3454f.chunk.js",
+    "index.html": "/bostreact/index.html",
+    "main.ee2f6c1d.css.map": "/bostreact/static/css/main.ee2f6c1d.css.map",
+    "main.e1a55f13.js.map": "/bostreact/static/js/main.e1a55f13.js.map",
+    "787.08f3454f.chunk.js.map": "/bostreact/static/js/787.08f3454f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee2f6c1d.css",
+    "static/js/main.e1a55f13.js"
+  ]
+}
